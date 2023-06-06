@@ -25,5 +25,5 @@ The gameplay of the game is simple yet challenging, requiring precise coordinati
 ## Preview 🔍
 
 <div align="center">
- <img src="SnakeGif.gif" />
+  <a href="#"><img src="SnakeGif.gif" /></a>
 </div>
